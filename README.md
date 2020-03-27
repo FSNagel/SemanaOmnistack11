@@ -80,8 +80,8 @@ Código desenvolvido na Semana Omnistack 11. (Be The Hero).
 - - [x] Instalando supertest
 - - [x] Testando rota da autenticação
 - [x] Deploy
-- [x] Alternativas
-- [x] Qual escolher?
+- - [x] Alternativas
+- - [x] Qual escolher?
 
 
 
