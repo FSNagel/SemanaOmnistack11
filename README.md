@@ -1,5 +1,7 @@
 # SemanaOmniStack11
-Código desenvolvido na Semana Omnistack 11. (Be The Hero).
+Código desenvolvido na Semana Omnistack 11 - Rocketseat. O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+
+<img src="https://github.com/FSNagel/SemanaOmniStack11/blob/master/images/devices.png?raw=true" />
 
 <h2>Primeiro dia - Apresentação da OmniStack (Start aplicações)</h2>
 
